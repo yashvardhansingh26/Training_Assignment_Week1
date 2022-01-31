@@ -3,7 +3,7 @@ CREATE USER
 IDENTIFIED BY 
 	root;
     
-@F:\Training_2022\sample data\ot_schema.sql
+
     
 GRANT create session TO c##techerpuser;
 GRANT create table TO  c##techerpuser;
